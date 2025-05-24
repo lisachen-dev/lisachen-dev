@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="img/banner.jpg" alt="Welcome Banner">
+  <img src="img/banner.png" alt="Welcome Banner">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&weight=600&size=40&duration=4500&pause=800&color=007ACC&center=true&vCenter=true&width=900&height=51&lines=%F0%9F%8C%8A+Welcome!+Make+yourself+at+home...;...(digitally%2C+of+course)." alt="Digital welcome banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&weight=600&size=40&duration=4500&pause=800&color=9C27B0&center=true&vCenter=true&width=900&height=51&lines=%F0%9F%8E%81+Currently+accepting+bugs%2C+features%2C+and+compliments." alt="Typing banner" />
 </h1>
+
 
 <p align="center">
   <a href="https://lisachenworks.com" target="_blank">
@@ -23,14 +24,14 @@
 <h1 align="center">🛠️ Ctrl + Z Until It Works</h1>
 
 <p align="center">
-  <img src="img/avatar.png" width="120" alt="avatar">
+  <img src="img/avatar.png" width="200" alt="avatar">
 </p>
 
 
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  <strong>Java-focused software engineer</strong> with experience in <strong>React, Python, and full-stack tools</strong><br>
+  <strong>Java-focused software engineer</strong> with experience in <strong>Python, React, and full-stack tools</strong><br>
   Passionate about <strong>clean code, robust backend systems, and building software that solves real problems</strong>
 </p>
 
@@ -43,16 +44,15 @@
 
 <br>
 
-I'm a software engineer focused on backend development with Java—currently building up my skills in Spring Boot, data structures, and API design. I’ve also explored frontend development using React and Tailwind CSS, which helped me understand full-stack workflows, even though my deeper focus is on Java.
+I'm a full-stack software engineer with a foundation in **Java** and **Python**, currently deepening my backend skills while continuing to build clean, accessible interfaces using **React** and **Tailwind CSS**. I’ve launched open-source templates, client sites, and prototypes that balance functionality with thoughtful design.
 
-Most of my recent projects have leaned frontend, including client sites and open-source templates. Now, I’m shifting toward backend systems that prioritize clean logic, scalability, and maintainability. My goal is to build tools that work well and are easy for other developers to extend.
+Lately, I’ve been focusing on backend fundamentals—data structures, algorithms, and writing logic that’s easy to maintain and scale. I want the systems I build to be not only usable, but extendable by the next developer who picks them up.
 
-Before tech, I worked in civil engineering, accounting, and restaurant management—roles that sharpened my real-world problem-solving and adaptability, both of which shape how I approach software now.
+Before tech, I worked in civil engineering, accounting, and restaurant management—roles that taught me to solve problems quickly, work with people across disciplines, and adapt on the fly. That real-world grounding shapes how I approach software today.
 
-I care about writing clean, efficient code and continuously improving as a developer. When I’m not coding, I’m either avoiding pinky toe injuries 🦶💥 or hanging out with my rescue pups 🐶.
+I care about building tools that are clear, helpful, and resilient. When I’m not coding, I’m either avoiding pinky toe injuries 🦶💥 or hanging out with my rescue pups 🐶.
 
 </details>
-
 
 
 ---
