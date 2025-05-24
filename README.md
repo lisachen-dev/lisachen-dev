@@ -118,9 +118,15 @@ I care about writing clean, efficient code and continuously improving as a devel
 
 ---
 
+---
+
 ## 🔥 From the Flame — Personal Blog
 
 > A digital notebook of lessons, wins, and fire-forged reflections.
+
+<p align="center">
+  <img src="img/from-the-flame.png" width="200" alt="From the Flame Logo">
+</p>
 
 <p align="center">
   <a href="https://blog.littlelanterncreative.com" target="_blank">
