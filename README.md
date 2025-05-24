@@ -78,7 +78,7 @@ I care about writing clean, efficient code and continuously improving as a devel
 ## 🚀 Featured Projects
 
 ### 🎤 Clarkaraoke
-🌐[Live Demo](https://clarkaraoke.com)
+🌐[Live Demo](https://clarkaraoke.com) · 
 > A dynamic karaoke site for a local DJ, built with **Wix CMS** and custom JavaScript enhancements.  
 > Features real-time testimonials, brand-aligned styling, and light business consulting.
 
@@ -106,6 +106,26 @@ I care about writing clean, efficient code and continuously improving as a devel
 
 <p align="center">
   <img src="img/portfolio-sage.png" width="450" alt="Sage Frame v1">
+</p>
+
+---
+
+## 📝 Related Blog Posts
+
+- 🎤 [Clarkaraoke: A DJ Site That Hits All The Right Notes](https://www.notion.so/Clarkaraoke-A-DJ-Site-That-Hits-All-The-Right-Notes-1ea762139265807a9961c67056d303b7?pvs=25)
+- 🟠 [Auric Frame v2: Clarity Over Chaos](https://www.notion.so/Auric-Frame-v2-Clarity-Over-Chaos-1f07621392658018afb2e2742997b587?pvs=25)
+- 🧡 [Mentorship Isn’t Magic — It’s Initiative](https://www.notion.so/Mentorship-Isn-t-Magic-It-s-Initiative-1f676213926580679e19d0c3a6ac9c3c?pvs=25)
+
+---
+
+## 🔥 From the Flame — Personal Blog
+
+> A digital notebook of lessons, wins, and fire-forged reflections.
+
+<p align="center">
+  <a href="https://blog.littlelanterncreative.com" target="_blank">
+    <img src="https://img.shields.io/badge/From%20the%20Flame-Blog-orange?style=for-the-badge&logo=notion&logoColor=white" alt="From the Flame Blog"/>
+  </a>
 </p>
 
 ---
@@ -150,6 +170,7 @@ I care about writing clean, efficient code and continuously improving as a devel
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
