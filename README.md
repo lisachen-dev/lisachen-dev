@@ -82,7 +82,7 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 ## 🚀 Featured Projects
 
 ### 🎤 Clarkaraoke
-🌐[Live Demo](https://clarkaraoke.com) · 
+🌐[Live Site](https://clarkaraoke.com) · ✏️[Blog Post](https://tinyurl.com/clarkaraokeblogpost-lisachen)
 > A dynamic karaoke site for a local DJ, built with **Wix CMS** and custom JavaScript enhancements.  
 > Features real-time testimonials, brand-aligned styling, and light business consulting.
 
@@ -93,7 +93,7 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 ---
 
 ### 🟠 Auric Frame (v2)
-🌐[Live Demo](https://auric-frame.vercel.app) · 🔗[GitHub](https://github.com/lisachen-dev/auric-frame) 
+🌐[Live Demo](https://auric-frame.vercel.app) · 🔗[GitHub](https://github.com/lisachen-dev/auric-frame) · ✏️[Blog Post](https://tinyurl.com/auric-frame-blog-post)
 > A minimalist portfolio template built with **React**, **Vite**, and **Tailwind CSS**.  
 > Features JSON-driven content, dark/light theme support, and modular component structure.
 
