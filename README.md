@@ -3,7 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&weight=600&size=40&duration=4500&pause=800&color=9C27B0&center=true&vCenter=true&width=900&height=51&lines=%F0%9F%8E%81+Currently+accepting+bugs%2C+features%2C+and+compliments." alt="Typing banner" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&weight=600&size=40&duration=4500&pause=800&color=9C27B0&center=true&vCenter=true&width=1100&height=51&lines=%F0%9F%8E%81+Currently+accepting+bugs%2C+features%2C+and+compliments." 
+    alt="Typing banner" 
+    style="max-width: 100%; height: auto;" 
+  />
 </h1>
 
 
