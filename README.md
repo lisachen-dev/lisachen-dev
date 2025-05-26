@@ -169,9 +169,9 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 <h1 align="center">🔎 Currently Exploring</h1>
 
 <p align="center">
-  <strong>Java & Algorithms</strong> for technical interview prep  
-  <br><strong>React Projects</strong> using Vite, Tailwind, and component-based architecture  
-  <br><strong>Full-stack Development</strong> with Firebase & Firestore  
+  <strong>Python & Algorithms</strong> for daily LeetCode practice and technical interviews  
+  <br><strong>React Projects</strong> using Vite, Tailwind, and modern component patterns  
+  <br><strong>Full-stack Development</strong> with Java (Spring Boot) and React  
 </p>
 
 ---
