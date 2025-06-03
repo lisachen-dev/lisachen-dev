@@ -116,9 +116,10 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 
 ## 📝 Related Blog Posts
 
-- 🎤 [Clarkaraoke: A DJ Site That Hits All The Right Notes](https://www.notion.so/Clarkaraoke-A-DJ-Site-That-Hits-All-The-Right-Notes-1ea762139265807a9961c67056d303b7?pvs=25)
-- 🟠 [Auric Frame v2: Clarity Over Chaos](https://www.notion.so/Auric-Frame-v2-Clarity-Over-Chaos-1f07621392658018afb2e2742997b587?pvs=25)
+- 🧠 [How I Use AI to Think, Plan and Learn](https://tinyurl.com/from-the-flame-how-i-use-ai)
 - 🧡 [Mentorship Isn’t Magic — It’s Initiative](https://www.notion.so/Mentorship-Isn-t-Magic-It-s-Initiative-1f676213926580679e19d0c3a6ac9c3c?pvs=25)
+- 🟠 [Auric Frame v2: Clarity Over Chaos](https://www.notion.so/Auric-Frame-v2-Clarity-Over-Chaos-1f07621392658018afb2e2742997b587?pvs=25)
+- 🎤 [Clarkaraoke: A DJ Site That Hits All The Right Notes](https://www.notion.so/Clarkaraoke-A-DJ-Site-That-Hits-All-The-Right-Notes-1ea762139265807a9961c67056d303b7?pvs=25)
 
 ---
 
@@ -142,27 +143,27 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 
 ## 🔜 Upcoming Projects
 
-### 🕺 Seductive Sounds Entertainment
-> A karaoke & entertainment business site focused on bookings, packages, and testimonials.  
-> Built with **Wix**, **CMS Datasets**, and custom design enhancements.
+### 🥏 Seven Hills Ultimate
+> A streamlined team website for a Seattle-based Ultimate Frisbee program, with dynamic updates and registration support.  
+> Built with **Wix**, **CMS Datasets**, and custom visual structure planning.
 
 ---
 
-### ☕ HangOut Planner
+### ☕ Form Ahead
 > A full-stack event coordination tool where users submit availability and preferences.  
 > Built with **Java (Spring Boot)**, **React**, and **Tailwind CSS**.
-
----
-
-### 🐾 Dog Emergency Info Site
-> A secure site for pet sitters with access to emergency contacts, routines, and health notes.  
-> Built with **React**, **Tailwind CSS**, and **Firestore**.
 
 ---
 
 ### 🌾 Ewesterninc
 > A professional web presence with a mobile-first design and simplified ecommerce experience.  
 > Built with **Wix**, **CMS Datasets**, and custom UX planning.
+
+---
+
+### 🐾 Dog Emergency Info Site
+> A secure site for pet sitters with access to emergency contacts, routines, and health notes.  
+> Built with **React**, **Tailwind CSS**, and **Firestore**.
 
 ---
 
