@@ -82,7 +82,7 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 ## 🚀 Featured Projects
 
 ### 🎤 Clarkaraoke
-🌐[Live Site](https://clarkaraoke.com) · ✏️[Blog Post](https://tinyurl.com/clarkaraokeblogpost-lisachen)
+🌐[Live Site](https://clarkaraoke.com) · ✏️[Blog Post](https://tinyurl.com/clarkaraoke-from-the-flame)
 > A dynamic karaoke site for a local DJ, built with **Wix CMS** and custom JavaScript enhancements.  
 > Features real-time testimonials, brand-aligned styling, and light business consulting.
 
@@ -93,7 +93,7 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 ---
 
 ### 🟠 Auric Frame (v2)
-🌐[Live Demo](https://auric-frame.vercel.app) · 🔗[GitHub](https://github.com/lisachen-dev/auric-frame) · ✏️[Blog Post](https://tinyurl.com/auric-frame-blog-post)
+🌐[Live Demo](https://auric-frame.vercel.app) · 🔗[GitHub](https://github.com/lisachen-dev/auric-frame) · ✏️[Blog Post](https://tinyurl.com/auric-frame)
 > A minimalist portfolio template built with **React**, **Vite**, and **Tailwind CSS**.  
 > Features JSON-driven content, dark/light theme support, and modular component structure.
 
@@ -116,10 +116,11 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 
 ## 📝 Related Blog Posts
 
-- 🧠 [How I Use AI to Think, Plan and Learn](https://tinyurl.com/from-the-flame-how-i-use-ai)
-- 🧡 [Mentorship Isn’t Magic — It’s Initiative](https://www.notion.so/Mentorship-Isn-t-Magic-It-s-Initiative-1f676213926580679e19d0c3a6ac9c3c?pvs=25)
-- 🟠 [Auric Frame v2: Clarity Over Chaos](https://www.notion.so/Auric-Frame-v2-Clarity-Over-Chaos-1f07621392658018afb2e2742997b587?pvs=25)
-- 🎤 [Clarkaraoke: A DJ Site That Hits All The Right Notes](https://www.notion.so/Clarkaraoke-A-DJ-Site-That-Hits-All-The-Right-Notes-1ea762139265807a9961c67056d303b7?pvs=25)
+- ⚙️ [How I use AI to Work Smarter (Not just code faster)](https://tinyurl.com/fully-compiled)
+- 🧠 [How I Use AI to Think, Plan and Learn](ttps://tinyurl.com/planning-with-ai)
+- 🧡 [Mentorship Isn’t Magic — It’s Initiative](https://tinyurl.com/mentorship-from-the-flame)
+- 🟠 [Auric Frame v2: Clarity Over Chaos](https://tinyurl.com/auric-frame)
+- 🎤 [Clarkaraoke: A DJ Site That Hits All The Right Notes](https://tinyurl.com/clarkaraoke-from-the-flame)
 
 ---
 
