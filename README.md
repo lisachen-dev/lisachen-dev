@@ -82,7 +82,8 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 ## 🚀 Featured Projects
 
 ### Wipe Right - Home Care Platform (DSD Cohort, 2025)
-🌐 Live Site: [Wipe Right](https://wiperight.netlify.app/) | May be taken down by September 2025 due to cost </br>
+🌐 Demo: [View on Loom](https://www.loom.com/share/37681e555a074dce93130840fbd19240?sid=6a9d8af6-5146-4a3f-a914-54eb9655e714) </br>
+🌐 Live Site (if available): [Wipe Right](https://wiperight.netlify.app/) </br>
 🔗 GitHub Repository: [Wipe Right Backend](https://github.com/lisachen-dev/wipe_right_backend)
 
 > Team-built platform for booking and managing home cleaning & maintenance services.  
