@@ -81,8 +81,62 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 
 ## 🚀 Featured Projects
 
-### 🎤 Clarkaraoke
-🌐[Live Site](https://clarkaraoke.com) · ✏️[Blog Post](https://tinyurl.com/clarkaraoke-from-the-flame)
+### Wipe Right - Home Care Platform (DSD Cohort, 2025)
+🌐 Live Site: [Wipe Right](https://wiperight.netlify.app/) | May be taken down by September 2025 due to cost </br>
+🔗 GitHub Repository: [Wipe Right Backend](https://github.com/lisachen-dev/wipe_right_backend)
+
+> Team-built platform for booking and managing home cleaning & maintenance services.  
+> * I was the backend lead developer and mentor:
+>   * **FastAPI (Python)** with **Supabase Auth/Postgres**, JWT verification, CRUD APIs across 10+ tables, ERD/schema design, and dev onboarding docs.
+
+<table>
+  <tr>
+    <th colspan="3">Customer View</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/wipe-right-home.png" width="250" alt="Home Page"></td>
+    <td align="center"><img src="img/wipe-right-booking.png" width="250" alt="Booking Page"></td>
+    <td align="center"><img src="img/provider_notification.png" width="250" alt="Provider View" /></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Wipe Right Home Page</em></td>
+    <td align="center"><em>Customer Booking Page with Provider Details</em></td>
+    <td align="center"><em>Provider View with Booking Status and location</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="3">Bumi AI</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/bumi-sink-help.png" width="250" alt="Wipe Right home page"></td>
+    <td align="center"><img src="img/bumi_image_drop.png" width="250" alt="Wipe Right Booking Page"></td>
+    <td align="center"><img src="img/bumi_image_suggestion.png" width="250" alt="Wipe Right Booking Page"></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Request for help</em></td>
+    <td align="center"><em>Clarification from Bumi</em></td>
+    <td align="center"><em>Bumi suggests existing service</em></td>
+  </tr>
+</table>
+
+---
+
+### Seven Hills Ultimate (Client)
+🌐 Live Site: [sevenhillsultimateclub.com](http://sevenhillsultimateclub.com/)
+> A content-managed club site with clear program pages, tryout info, history/roster sections.
+> Focus areas: **structured navigation**, **mobile-first UX**, **CMS collections** and **SEO basics**.
+
+<p align="center">
+    <img src="img/citiline.png" width="300" alt="Seven Hills Logo">
+</p>
+
+
+---
+
+### 🎤 Clarkaraoke (Client)
+🌐 Live Site: [clarkaraoke.com](https://clarkaraoke.com) · ✏️[Blog Post](https://tinyurl.com/clarkaraoke-from-the-flame)
 > A dynamic karaoke site for a local DJ, built with **Wix CMS** and custom JavaScript enhancements.  
 > Features real-time testimonials, brand-aligned styling, and light business consulting.
 
@@ -92,35 +146,38 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 
 ---
 
-### 🟠 Auric Frame (v2)
-🌐[Live Demo](https://auric-frame.vercel.app) · 🔗[GitHub](https://github.com/lisachen-dev/auric-frame) · ✏️[Blog Post](https://tinyurl.com/auric-frame)
-> A minimalist portfolio template built with **React**, **Vite**, and **Tailwind CSS**.  
-> Features JSON-driven content, dark/light theme support, and modular component structure.
+### Open-Source Portfolio Templates (Auric v2 + Sage v1)
+🌐 Live Demo: [Auric Frame](https://auric-frame.vercel.app) · [Sage Frame](https://sage-frame.web.app/) </br>
+🔗 GitHub Templates: [Auric Frame v2](https://github.com/lisachen-dev/auric-frame) · [Sage Frame v1](https://github.com/lisachen-dev/sage-frame-v1) </br>
+✏️Blog Posts: [Auric Frame](https://tinyurl.com/auric-frame)
 
-<p align="center">
-  <img src="img/portfolio-auric.png" width="450" alt="Auric Frame">
-</p>
+> Two iterations of my React porfolio template.
+> **Auric (v2):** **React + Vite + Tailwind**, JSON-driven content, theme toggle, modular components
+> **Sage (v1):** **
 
 ---
 
-### 🟢 Sage Frame (v1)
-🌐[Live Demo](https://sage-frame.web.app/) · 🔗[Sage Frame v1](https://github.com/lisachen-dev/sage-frame-v1)
-> The original version of my open-source portfolio template, built with **React** and **Tailwind CSS**.  
-> Includes animations, theme toggling, and accessible, mobile-friendly design.
-
-<p align="center">
-  <img src="img/portfolio-sage.png" width="450" alt="Sage Frame v1">
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="img/portfolio-auric.png" width="360" alt="Auric Frame v2"></td>
+    <td align="center"><img src="img/portfolio-sage.png" width="360" alt="Sage Frame v1"></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Auric Frame (v2)</em></td>
+    <td align="center"><em>Sage Frame (v1)</em></td>
+  </tr>
+</table>
 
 ---
 
 ## 📝 Related Blog Posts
 
-- ⚙️ [How I use AI to Work Smarter (Not just code faster)](https://tinyurl.com/fully-compiled)
-- 🧠 [How I Use AI to Think, Plan and Learn](ttps://tinyurl.com/planning-with-ai)
-- 🧡 [Mentorship Isn’t Magic — It’s Initiative](https://tinyurl.com/mentorship-from-the-flame)
-- 🟠 [Auric Frame v2: Clarity Over Chaos](https://tinyurl.com/auric-frame)
-- 🎤 [Clarkaraoke: A DJ Site That Hits All The Right Notes](https://tinyurl.com/clarkaraoke-from-the-flame)
+- [Setting up the Backend for Success - Week 2 with DSD](https://www.notion.so/littlelanterncreative/Setting-up-the-Backend-for-Success-Week-2-with-DSD-23976213926580439209e95e1afa2622)
+- [How I use AI to Work Smarter (Not just code faster)](https://tinyurl.com/fully-compiled)
+- [How I Use AI to Think, Plan and Learn](ttps://tinyurl.com/planning-with-ai)
+- [Mentorship Isn’t Magic — It’s Initiative](https://tinyurl.com/mentorship-from-the-flame)
+- [Auric Frame v2: Clarity Over Chaos](https://tinyurl.com/auric-frame)
+- [Clarkaraoke: A DJ Site That Hits All The Right Notes](https://tinyurl.com/clarkaraoke-from-the-flame)
 
 ---
 
@@ -143,10 +200,6 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 ---
 
 ## 🔜 Upcoming Projects
-
-### 🥏 Seven Hills Ultimate
-> A streamlined team website for a Seattle-based Ultimate Frisbee program, with dynamic updates and registration support.  
-> Built with **Wix**, **CMS Datasets**, and custom visual structure planning.
 
 ---
 
