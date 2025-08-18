@@ -87,8 +87,8 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 🔗 GitHub Repository: [Wipe Right Backend](https://github.com/lisachen-dev/wipe_right_backend)
 
 > Team-built platform for booking and managing home cleaning & maintenance services.  
-> * I was the backend lead developer and mentor:
->   * **FastAPI (Python)** with **Supabase Auth/Postgres**, JWT verification, CRUD APIs across 10+ tables, ERD/schema design, and dev onboarding docs.
+> **Role:** Backend lead & mentor · **Stack:** FastAPI (Python), Supabase Auth/Postgres  
+> **Highlights:** JWT verification & role checks · ERD/schema for 10+ tables · CRUD APIs with Pydantic & OpenAPI · Dev onboarding docs & code reviews
 
 <table>
   <tr>
