@@ -175,7 +175,7 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 
 - [Setting up the Backend for Success - Week 2 with DSD](https://www.notion.so/littlelanterncreative/Setting-up-the-Backend-for-Success-Week-2-with-DSD-23976213926580439209e95e1afa2622)
 - [How I use AI to Work Smarter (Not just code faster)](https://tinyurl.com/fully-compiled)
-- [How I Use AI to Think, Plan and Learn](ttps://tinyurl.com/planning-with-ai)
+- [How I Use AI to Think, Plan and Learn](https://tinyurl.com/planning-with-ai)
 - [Mentorship Isn’t Magic — It’s Initiative](https://tinyurl.com/mentorship-from-the-flame)
 - [Auric Frame v2: Clarity Over Chaos](https://tinyurl.com/auric-frame)
 - [Clarkaraoke: A DJ Site That Hits All The Right Notes](https://tinyurl.com/clarkaraoke-from-the-flame)
