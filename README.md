@@ -92,7 +92,7 @@ I care about building tools that are clear, helpful, and resilient. When I’m n
 
 <table>
   <tr>
-    <th colspan="3">Customer View</th>
+    <th colspan="3">Customer/Provider View</th>
   </tr>
   <tr>
     <td align="center"><img src="img/wipe-right-home.png" width="250" alt="Home Page"></td>
